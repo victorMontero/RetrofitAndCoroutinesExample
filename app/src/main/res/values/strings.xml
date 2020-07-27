@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitAndCoroutinesExample</string>
+    <string name="get_random_image">get random image</string>
+</resources>
